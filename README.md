@@ -2,8 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-# ExamApp
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Key Features](#key-features)
